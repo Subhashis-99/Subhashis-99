@@ -11,10 +11,10 @@
 
 - 🔭 I’m currently working on **A Pan India Real estate Project**
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
-- 👨‍💻 All of my projects are available at [https://sites.google.com/d/1zWWlIWjIuNSe5zPqB27hTwToD2A5BJ94/p/16JCH-vEddMravtUK1uhaij7_0UL2H-CJ/edit](https://sites.google.com/d/1zWWlIWjIuNSe5zPqB27hTwToD2A5BJ94/p/16JCH-vEddMravtUK1uhaij7_0UL2H-CJ/edit)
+- 👨‍💻 All of my projects are available at [http://tinyurl.com/Subhashis99](http://tinyurl.com/Subhashis99)
 - 💬 Ask me about **Python, SQL, Excel, and machine learning algorithm**
 - 📫 How to reach me **spraharaj26@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1INMYMVMX3Nwb73cDJDlFdClQyMBScyEV/view?usp=drive_link](https://drive.google.com/file/d/1INMYMVMX3Nwb73cDJDlFdClQyMBScyEV/view?usp=drive_link)
+- 📄 Know about my experiences [http://tinyurl.com/resume192](http://tinyurl.com/resume192)
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
