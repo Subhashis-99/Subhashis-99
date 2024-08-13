@@ -1,5 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/769/920/desktop-wallpaper-web-developer-front-end.jpg
-)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Subhashis</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
