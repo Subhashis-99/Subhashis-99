@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashis-99&label=Profile%20views&color=0e75b6&style=flat" alt="subhashis-99" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="subhashis-99" /> </p>
 
 - 🔭 I’m currently working on [An web based Online food ordering App](https://subhashis-99.github.io/Foodies-website/)
 
