@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhashis</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashis-99&label=Profile%20views&color=0e75b6&style=flat" alt="subhashis-99" /> </p>
